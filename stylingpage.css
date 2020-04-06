@@ -1,0 +1,61 @@
+.headings{
+	font-family: Lucida Console, Courier, monospace;
+	text-align: center;
+	color:  #99e6ff;
+
+}
+.btn, button {
+
+	width: 100%;
+	height: 40px;
+	background:#66c2ff;
+	font-family: Lucida Console, Courier, monospace;
+	font-size: 22px;
+	color:#000000;
+	letter-spacing: 2px;
+}
+label {
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	padding: 0px 0px 0px 10px;
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: #99d6ff;
+}
+.myVideo{
+	  position: fixed;
+ 	 right: 0;
+ 	 bottom: 0;
+ 	 min-width: 100%; 
+ 	 min-height: 100%;
+}
+.content {
+	align-items: center;
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  /*width: 100%;*/
+  padding: 20px 110px 30px 60px;
+	margin: 0px 0px 30px 230px;
+}
+.formdiv{
+	padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 180px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 5px 00px;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #99d6ff;
+  /*opacity: 0.1;*/
+   background: rgba(00, 00, 00, 0.3);
+  color: #99d6ff;
+  font-family: Lucida Console, Courier, monospace;
+  font-color: white;
+	font-size: 22px;
+
+}
